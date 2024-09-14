@@ -1,0 +1,3 @@
+Colud is simply a network of computers runnig on virtulisation.
+colud computing means delivering IT services to the customers
+Colud computing helps to deliver the services faster and in a secure manner to the end user.
